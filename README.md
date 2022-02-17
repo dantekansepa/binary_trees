@@ -86,8 +86,3 @@ What you should learn from this project:
 
 ### [18. Uncle](./18-binary_tree_uncle.c)
 * Write a function that finds the uncle of a node
-
----
-
-## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
